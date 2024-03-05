@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+lxml
+bs4
+google-api-python-client
+functions-framework
+google-cloud-storage
+google-cloud-dns
